@@ -14,4 +14,5 @@ public class Truck {
     double height;
     double length;
     double width;
+    Cargo cargo;
 }
